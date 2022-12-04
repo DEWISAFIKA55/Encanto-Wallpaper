@@ -22,12 +22,26 @@
 "Categories": [
     {
       "name_category": "ANDI",
-	  "name_category": "DEWI",
+      "image": "#"
+    }
+  ],{
+      "name_category": "DEWI",
+      "image": "#"
+    }
+  ],{
       "name_category": "POLA",
+      "image": "#"
+    }
+  ],{
       "name_category": "SAPIKON",
+      "image": "#"
+    }
+  ],{
       "name_category": "DEWOK",
+      "image": "#"
+    }
+  ],{
       "name_category": "DEWOL",
-
       "image": "#"
     }
   ],
